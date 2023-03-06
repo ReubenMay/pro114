@@ -1,0 +1,13 @@
+h3{
+    font-size:25px !important ;
+}
+.btn-success:hover
+{
+background-color: darkblue;
+}
+canvas{
+   animation-name:example ;
+   animation-duration: 10s;
+   animation-iteration-count: infinite;
+   border-color: black; 
+}

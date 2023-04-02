@@ -11,3 +11,7 @@ canvas{
    animation-iteration-count: infinite;
    border-color: black; 
 }
+@keyframes example {
+from{box-shadow:3px 3px 40px darkblue ;}
+to{box-shadow:3px 3px 40px lightblue ;}
+}
